@@ -5,6 +5,7 @@
 - 📊 &nbsp; Data Scientist.
 - 🤖 &nbsp; Machine Learning.
 - 📈 &nbsp; Business Intelligence.
+- 🤖 &nbsp; Deep Learning (Computer Vision)
 
 <h2><b><samp>Skills and Languages</samp></b></h2>
 
