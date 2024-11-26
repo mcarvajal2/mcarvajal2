@@ -50,6 +50,6 @@
 
 ### 📈 GitHub Activity:
 <a href="https://github.com/datascientist-miguel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datascientist-miguel&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datascientist-miguel&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarvajal2&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarvajal2&theme=radical&layout=compact" />
 </a>
