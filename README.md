@@ -49,7 +49,7 @@
 <a href="mailto:m.angel9106@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.angel9106@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ### 📈 GitHub Activity:
-<a href="https://github.com/datascientist-miguel">
+<a href="https://github.com/mcarvajal2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarvajal2&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarvajal2&theme=radical&layout=compact" />
 </a>
