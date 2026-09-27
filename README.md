@@ -2,11 +2,11 @@
 
 **Full-Stack Developer · Health tech** — Chile 🇨🇱
 
-Onboarding Lead on the acquisition team at [Cero](https://cero.ai), where I also build product improvements for patient scheduling across the stack: Python/FastAPI services, TypeScript/SvelteKit internal tools, and the tests and QA that keep client launches reliable.
+Onboarding Lead on the acquisition team at [Cero](https://cero.ai) (YC S21), where I also build product improvements for patient scheduling across the stack: Python/FastAPI services, TypeScript/SvelteKit internal tools, and the tests and QA that keep client launches reliable.
 
 Medical Technologist by training — six years in clinical laboratories before moving into data science and software.
 
-> 🇪🇸 **Full-Stack Developer en health tech.** Encargado de Onboarding en el equipo de Adquisición de Cero, donde además desarrollo mejoras para el producto de agendamiento de pacientes: servicios en Python/FastAPI, herramientas internas en TypeScript/SvelteKit, y pruebas y QA para lanzamientos confiables con clientes. Tecnólogo Médico de formación, con experiencia en laboratorio clínico y data science.
+> 🇪🇸 **Full-Stack Developer en health tech.** Encargado de Onboarding en el equipo de Adquisición de Cero (YC S21), donde además desarrollo mejoras para el producto de agendamiento de pacientes: servicios en Python/FastAPI, herramientas internas en TypeScript/SvelteKit, y pruebas y QA para lanzamientos confiables con clientes. Tecnólogo Médico de formación, con experiencia en laboratorio clínico y data science.
 
 ---
 
