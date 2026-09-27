@@ -2,9 +2,9 @@
 
 **Data Scientist · Medical Technologist (Clinical Laboratory)** — Chile 🇨🇱
 
-I combine hands-on clinical laboratory experience with data science and machine learning to build tools for healthcare and education: from blood-cell image classification running in the browser to predictive models on health and financial data.
+I combine hands-on clinical laboratory experience with data science and machine learning to build tools for healthcare: from blood-cell image classification running in the browser to predictive models on health and financial data.
 
-> 🇪🇸 **Tecnólogo Médico con mención en Laboratorio Clínico y Data Scientist.** Uno la experiencia en laboratorio clínico con ciencia de datos y machine learning para construir herramientas de salud y educación: desde clasificación de células sanguíneas en el navegador hasta modelos predictivos sobre datos clínicos y financieros.
+> 🇪🇸 **Tecnólogo Médico con mención en Laboratorio Clínico y Data Scientist.** Uno la experiencia en laboratorio clínico con ciencia de datos y machine learning para construir herramientas de salud: desde clasificación de células sanguíneas en el navegador hasta modelos predictivos sobre datos clínicos y financieros.
 
 ---
 
@@ -13,7 +13,6 @@ I combine hands-on clinical laboratory experience with data science and machine 
 | Project | Description | Stack |
 |---|---|---|
 | [**HematoVision**](https://github.com/mcarvajal2/hematovision) · [demo](https://mcarvajal2.github.io/hematovision/) | Educational web app that classifies 9 blood-cell types from the camera, fully in the browser. Includes the ML pipeline, model card and reproducible dataset split. <br>*App educativa que clasifica 9 tipos de células sanguíneas desde la cámara, en el navegador.* | TensorFlow · TF.js · Vite · DVC · GitHub Actions |
-| [**Juegos de Memoria**](https://github.com/mcarvajal2/juegos-memoria) | Two memory activities for educational psychology: implicit memory (priming) for children and episodic memory for older adults. <br>*Actividades de memoria para psicopedagogía: niños y personas mayores.* | HTML · CSS · JavaScript |
 | [**Credit Card Fraud**](https://github.com/mcarvajal2/credit_card_fraud) | Fraud detection on 550K+ anonymized European card transactions: EDA, visualization and model comparison. <br>*Detección de fraude en más de 550 mil transacciones.* | Python · scikit-learn · pandas · Plotly |
 | [**Smoker & Drinker Classification**](https://github.com/mcarvajal2/classification_drinker) | Classification of smoking/drinking status from Korean national health screening data, with a reusable analysis package. <br>*Clasificación de fumadores y bebedores con datos de salud de Corea.* | Python · scikit-learn · XGBoost · imbalanced-learn |
 | [**Medical Cost Analysis**](https://github.com/mcarvajal2/Medical_cost) | Exploratory analysis and regression models to predict medical insurance costs (EN/ES notebooks). <br>*Análisis y predicción de costos médicos.* | Python · scikit-learn · SciPy · seaborn |
