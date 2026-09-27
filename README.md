@@ -1,55 +1,37 @@
-<h1><b><samp> Hey there! I'm Miguel Angel 👋</b></h1>
-<h2><samp> About Me </h2>
+# Miguel Angel Carvajal
 
-- 🔬 &nbsp; Medical Technologist in Clinical Laboratory.
-- 📊 &nbsp; Data Scientist.
-- 🤖 &nbsp; Machine Learning.
-- 📈 &nbsp; Business Intelligence.
-- 🤖 &nbsp; Deep Learning (Computer Vision)
+**Data Scientist · Medical Technologist (Clinical Laboratory)** — Chile 🇨🇱
 
-<h2><b><samp>Skills and Languages</samp></b></h2>
+I combine hands-on clinical laboratory experience with data science and machine learning to build tools for healthcare and education: from blood-cell image classification running in the browser to predictive models on health and financial data.
 
-<h3><b><samp> Languages </b></h3>
+> 🇪🇸 **Tecnólogo Médico con mención en Laboratorio Clínico y Data Scientist.** Uno la experiencia en laboratorio clínico con ciencia de datos y machine learning para construir herramientas de salud y educación: desde clasificación de células sanguíneas en el navegador hasta modelos predictivos sobre datos clínicos y financieros.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-<h3><b><samp> Skills </b></h3>
-  
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+## Featured projects · Proyectos destacados
 
-<h3><b><samp> Cloud </b></h3>
-  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  
-<h3><b><samp> Libraries and Framework </b></h3>
+| Project | Description | Stack |
+|---|---|---|
+| [**HematoVision**](https://github.com/mcarvajal2/hematovision) · [demo](https://mcarvajal2.github.io/hematovision/) | Educational web app that classifies 9 blood-cell types from the camera, fully in the browser. Includes the ML pipeline, model card and reproducible dataset split. <br>*App educativa que clasifica 9 tipos de células sanguíneas desde la cámara, en el navegador.* | TensorFlow · TF.js · Vite · DVC · GitHub Actions |
+| [**Juegos de Memoria**](https://github.com/mcarvajal2/juegos-memoria) | Two memory activities for educational psychology: implicit memory (priming) for children and episodic memory for older adults. <br>*Actividades de memoria para psicopedagogía: niños y personas mayores.* | HTML · CSS · JavaScript |
+| [**Credit Card Fraud**](https://github.com/mcarvajal2/credit_card_fraud) | Fraud detection on 550K+ anonymized European card transactions: EDA, visualization and model comparison. <br>*Detección de fraude en más de 550 mil transacciones.* | Python · scikit-learn · pandas · Plotly |
+| [**Smoker & Drinker Classification**](https://github.com/mcarvajal2/classification_drinker) | Classification of smoking/drinking status from Korean national health screening data, with a reusable analysis package. <br>*Clasificación de fumadores y bebedores con datos de salud de Corea.* | Python · scikit-learn · XGBoost · imbalanced-learn |
+| [**Medical Cost Analysis**](https://github.com/mcarvajal2/Medical_cost) | Exploratory analysis and regression models to predict medical insurance costs (EN/ES notebooks). <br>*Análisis y predicción de costos médicos.* | Python · scikit-learn · SciPy · seaborn |
+| [**Full-Stack Bootcamp**](https://github.com/mcarvajal2/fullstack-bootcamp) | Collection of front-end projects from a full-stack bootcamp: HTML/CSS, JavaScript, Vue 3, Vue Router, Vuex and Firebase. <br>*Proyectos front-end de bootcamp full-stack.* | Vue 3 · Vite · Firebase |
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+More: [House Prices](https://github.com/mcarvajal2/house_prices_predict) · [Diabetes Logistic Regression](https://github.com/mcarvajal2/logistic_regression_diabetes) · [Cookiecutter Data Science template](https://github.com/mcarvajal2/cookiecutter-data-science)
 
-<h3><b><samp> Contact </b></h3>
+---
 
-<a href="https://www.linkedin.com/in/miguel-angel-carvajal-carvajal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Miguel%20Angel%20Carvajal-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:m.angel9106@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.angel9106@gmail.com-blue?style=flat-square&logo=gmail"></a>
+## Tech stack · Tecnologías
 
-### 📈 GitHub Activity:
-<a href="https://github.com/mcarvajal2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarvajal2&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarvajal2&theme=radical&layout=compact" />
-</a>
+- **Data & ML:** Python · pandas · NumPy · SciPy · scikit-learn · XGBoost · TensorFlow/Keras · PyTorch · seaborn · Plotly · Jupyter
+- **Web:** JavaScript · Vue 3 · Vite · TensorFlow.js · Firebase
+- **Data & infra:** SQL (PostgreSQL, MySQL) · Git · DVC · GitHub Actions · Google Cloud · AWS
+
+---
+
+## Contact · Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Angel%20Carvajal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-carvajal-carvajal/)
+[![Email](https://img.shields.io/badge/Email-m.angel9106%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:m.angel9106@gmail.com)
